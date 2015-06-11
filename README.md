@@ -68,6 +68,7 @@ We'll make use of `util` and `http`.
 
 ```bash
 $ cd demo
+$ npm install
 $ node tic-tac-toe-ui.js
 ```
 
@@ -77,6 +78,7 @@ $ node tic-tac-toe-ui.js
 
 ```bash
 $ cd ../code
+$ npm install
 $ node hangman-ui.js
 ```
 
@@ -86,6 +88,7 @@ $ node hangman-ui.js
 
 ```bash
 $ cd ../lab
+$ npm install
 $ node hangman-ui.js
 ```
 
