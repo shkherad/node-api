@@ -28,6 +28,13 @@ By the end of this, developers should be able to:
 -   Browser: an environment for running JavaScript (among other things)
 -   Node: an environment for running JavaScript outside the browser
 
+Somewhat valid equations:
+
+```txt
+Browser = JavaScript + Browser API + (other things)
+   Node = JavaScript + CLI/Server API
+```
+
 How are the two environments similar? How do they differ?
 
 ## Lab: Research the File System API
@@ -47,11 +54,15 @@ module.
 1.  [`fs.readFile(file[, options], callback)`](https://nodejs.org/dist/latest-v4.x/docs/api/fs.html#fs_fs_readfile_file_options_callback)
 1.  [`fs.writeFile(file, data[, options], callback)`](https://nodejs.org/dist/latest-v4.x/docs/api/fs.html#fs_fs_writefile_file_data_options_callback)
 
-## Read-Along: `copy-json.js`
+## Annotate-Along: `lib/copy-json.js`
 
 ## Code-Along: `hey-yall.js`
 
+"Hello, World!" with the Node file system API.
+
 ## Lab: Write a Randomizer
+
+Randomize the lines in a file.
 
 ## Additional Resources
 
