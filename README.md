@@ -64,12 +64,16 @@ module.
 
 Randomize the lines in a file.
 
+How do you shuffle an array?
+
 ## Additional Resources
 
 -   [Docs | Node.js](https://nodejs.org/en/docs/)
 -   [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 -   [Node Courses from CodeSchool](https://www.codeschool.com/search?query=Node.js)
 -   [NodeSchool](http://nodeschool.io/)
+-   [Fisher-Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle),
+ aka Knuth shuffle.
 
 ## [License](LICENSE)
 
